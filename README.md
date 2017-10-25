@@ -1,3 +1,3 @@
 # git_learning
 
-this is a repository to experiment git vcommands
+this is a repository to experiment git commands
